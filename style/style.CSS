@@ -1,0 +1,24 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/OIP-C.jfif);
+}
+.bg {
+	background-color: #3CF;
+}
+a:link {
+	color: #09C;
+	text-decoration: none;
+}
+a:visited {
+	color: #F00;
+}
+a:hover {
+	color: #FF0;
+}
+a:active {
+	color: #3F0;
+}
+</style>

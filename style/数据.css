@@ -1,0 +1,30 @@
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/720.jpg);
+}
+.bg {
+	background-color: #3CF;
+	background-image: url(../images/v2-0fed8e16d7d80d9f21e7f3c2769cfb4a_r.jpg);
+}
+a:link {
+	color: #09C;
+	text-decoration: none;
+}
+a:visited {
+	color: #F00;
+}
+a:hover {
+	color: #FF0;
+}
+a:active {
+	color: #3F0;
+}
+body,td,th {
+	font-size: 36px;
+	color: #333;
+}

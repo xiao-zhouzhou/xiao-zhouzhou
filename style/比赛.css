@@ -1,0 +1,28 @@
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/u=4038146194,1428070990&fm=253&app=120&f=JPEGw=800&h=1240.jpg);
+}
+.bg {
+	background-color: #3CF;
+}
+a:link {
+	color: #09C;
+	text-decoration: none;
+}
+a:visited {
+	color: #F00;
+}
+a:hover {
+	color: #FF0;
+}
+a:active {
+	color: #3F0;
+}
+body,td,th {
+	font-size: 36px;
+	color: #FFF;
+}
